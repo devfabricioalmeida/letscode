@@ -15,7 +15,7 @@
 ✔ Criar seu primeiro aplicativo baseado na plataforma Windows Forms.
 
 
-## Semana - 01
+## Aula - 01
 
 **Introdução**
 
@@ -37,7 +37,7 @@
 - Coleções
 - Exceptions(Tratamento de erros)
 
-## Semana - 02
+## Aula - 02
 
 **Orientação a objetos:**
 
@@ -53,7 +53,7 @@
 - Manipulando eventos
 - Conectando no banco de dados MySql
 
-## Semana - 03
+## Aula - 03
 
 **Projeto de conclusão**
 
